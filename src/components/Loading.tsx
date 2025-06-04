@@ -21,8 +21,8 @@ export const Loading = () => {
           className="w-16 h-16"
         >
           <img 
-            src="https://raw.githubusercontent.com/Nounspace/nounspace.ts/canary/public/images/tom_alerts.png" 
-            alt="Tom's Summary"
+            src="https://raw.githubusercontent.com/willyogo/prop-summarizer/refs/heads/noun584/noun584.avif" 
+            alt="Noun584's Summary"
             className="w-full h-full"
           />
         </motion.div>
