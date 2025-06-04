@@ -16,7 +16,7 @@ export const Navbar = () => {
           className="flex items-center gap-3"
         >
           <img 
-            src="https://raw.githubusercontent.com/Nounspace/nounspace.ts/canary/public/images/tom_alerts.png" 
+            src="https://raw.githubusercontent.com/willyogo/prop-summarizer/refs/heads/noun584/noun584.avif"
             alt="Noun584's Summary" 
             className="w-8 h-8"
           />
