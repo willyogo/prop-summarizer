@@ -37,7 +37,7 @@ export const Loading = () => {
           }}
           className="text-lg font-medium text-gray-700"
         >
-          Loading proposal...
+          Analyzing proposal...
         </motion.p>
       </motion.div>
     </div>
